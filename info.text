@@ -1,0 +1,138 @@
+- performance test => non-functional software test => determine => stability, speed, scalability, and responsiveness (SSSR) of applications up under a given workload (1). 
+
+- performance test (4) => software testing process => speed, response time, stability, reliability, scalability, and resource usage of a software application under a particular workload => main aspects => speed, scalability, and stability (SSS) 
+
+- different stage of performance test (1)=> 
+      - Software analysis and requirements preparation
+      - Strategy design
+      - Load generator configuration
+      - Server and load generator monitoring
+      - Test data generation
+      - Load scripts development
+      - Preliminary tests launch
+      - Tests execution
+      - Results analysis and reporting
+
+
+- Performance Testing Life Cycle (PTLC) (2) => connection between the expected result and the actual result => output =>
+    - responsive application with better performance.
+
+- PTLC phases =>
+    - Risk Assessment
+    - Requirement Gathering & Analysis
+    - Performance Test Planning
+    - Performance Test Design (Scripting)
+    - Workload Modelling 
+    - Performance Test Execution & Result Analysis
+    - Reporting and Recommendation
+
+**********************Test types****************************
+
+- Testing types (3) => (LSSSBCII) =>
+    - Load testing => simplest format of performance test =>
+        - monitoring application behavior under specified expected loading condition 
+    - Stress testing => to determine the maximum capacity (efficient performance) of system (application) above the expected maximum load 
+    - Soak (endurance testing) testing => to determine of sustained performance of system (application) after   continuous expected load
+    - Spike testing => Monitoring system (application ) manner according to modification load based on suddenly increase or decrease number of users
+    - Breakpoint (Capacity) testing  => similar to stress testing => according to predetermined failure condition, to determine the maximum capacity (efficient performance) of system (application)  based on incremental load over the time 
+    - Configuration testing => to determine the effects of configuration changes to the system's components on the system's performance and behavior
+    - Isolation testing => involving repetitive test execution that resulted in a system problem to determine and confirm  the fault domain
+    - Internet testing => 
+
+
+
+    - Testing types (4) => (LSE(S)SVS) =>
+        - Load testing 
+        - Stress testing 
+        - Endurance testing  
+        - Spike testing
+        - Volume testing => (?????????)
+        - Scalability testing => to determine the software application's effectiveness in “scaling up” to support an increase in user load 
+
+
+***************************Common Performance Problems**********************************
+
+Common Performance Problems (4) =>
+    - Long Load time
+    - Poor response time
+    - Poor scalability 
+    - Bottlenecking 
+
+
+
+ ***********************************SDLC************************************************
+
+- SDLC phases (5)=>
+    - Requirement analysis
+    - Planning
+    - Software design such as architectural design
+    - Software development
+    - Testing
+    - Deployment
+
+************************************ Automation test**************************************
+- Automation test procedure (6)=>
+    - Defining test requirements.
+    - Building a test environment.
+    - Managing tests and data points.
+    - Utilizing the results to drive key decisions in the SDLC process.
+
+
+
+- automation test => use an automation tool to test the functionality of your software and find bugs 
+- the reasons of test automation (7)=> 
+    - Reduces time to ship 
+    - Reduces testing effort
+    - Reduces costs
+    - Makes Continuous Integration and Continuous Delivery practices possible
+    - Avoids partial/cumulative testing
+    - Makes regression testing banal 
+    - Avoids human error
+    - Makes everyone happy, including developers
+
+- Types of tests and automation frameworks
+    - Unit tests
+    - Integration and Component tests
+    - Service tests
+    - UI tests
+    - Acceptance tests
+
+- Test automation (8)=> increase the efficiency and effectiveness of testing by =>
+                    - reducing human errors
+                    - saving time
+                    - improving test coverage
+
+            
+- benefits of automation testing (8)=>
+    - Instant test return and labor hours saved
+    - Swift feedback loop 
+    - Optimal resource allocation
+    - Enhanced accuracy
+    - Expanded test coverage
+    - Early bug detection
+    - Scalable testing
+
+
+- Disadvantages of automation test (8) => 
+    - High initial setup cost
+    - Inability to replace human intuition
+    - Maintenance overhead
+    - Limited testing for User Experience
+    - Challenges with complex scenarios
+    - Time-consuming creation of test scripts
+    - Inability to adapt to frequent UI changes
+    - Risk of false positives and negatives
+    - Skill dependency
+    - Overestimated automation
+
+
+- Tests which are difficult to automate (8) =>
+    - User Experience (UX) testing and surveys
+    - Usability testing
+    - Exploratory testing
+    - User Acceptance Testing (UAT)
+    - Internationalization or localization testing
+    - Mobile app testing
+
+
+
