@@ -1,1 +1,3 @@
-# Automation_test_first_task_2023.12.26
+- Continue study about performance (reference 10)
+- One new word
+- Review of previous notes

@@ -103,7 +103,7 @@ Common Performance Problems (4) =>
                     - improving test coverage
 
             
-- benefits of automation testing (8)=>
+- benefits of automation testing (8, 9)=>
     - Instant test return and labor hours saved
     - Swift feedback loop 
     - Optimal resource allocation
@@ -111,6 +111,8 @@ Common Performance Problems (4) =>
     - Expanded test coverage
     - Early bug detection
     - Scalable testing
+    - Maximized ROI
+    - Faster than Manual Testing
 
 
 - Disadvantages of automation test (8) => 
@@ -134,5 +136,30 @@ Common Performance Problems (4) =>
     - Internationalization or localization testing
     - Mobile app testing
 
+- frameworks of Automated Testing (9) =>
+    - Selenium:  Automation Tests on web applications
+    - Appium:  Mobile Automation Tests
+    - Cypress: automation tests for web applications
+    - Playwright:  automated tests on different browsers for websites
+    - Puppeteer:  functional tests on web applications
+    - Espresso: automated tests for Android applications
+    - XCUITest: automated tests for iOS applications
 
 
+
+**************************** Manual testing vs automated testing**********************************************
+
+- difference between manual and automation testing => who executes the test case (10) =>
+    - manual  testing => human tester 
+    - automation testing => tool 
+
+
+- Manual testing => QA analysts execute tests one-by-one in an individual manner (10)=>
+    - catch bugs and feature issues before a software application goes live
+
+- Automated testing (10)=> testers utilize tools and scripts to automate testing efforts
+
+- examples of manual testing (10)=>
+    - UX and exploratory testing.
+    - Complex test scenarios that are not efficient and sometimes not feasible to automate.
+    - Test scenarios that are only being validated once in a while.
